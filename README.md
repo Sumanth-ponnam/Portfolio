@@ -4,12 +4,6 @@ Signup UI (React Native + Expo)
 
 Mobile-first Sign Up screen built with React Native (Expo).
 Includes a country-code phone picker with E.164 normalization, react-hook-form validation that shows errors only after blur/submit, and automatic Light/Dark theming via useColorScheme().
-
-<p align="center">
-  <img src="docs/screenshot-light.png" alt="Light mode" width="360" />
-  <img src="docs/screenshot-dark.png" alt="Dark mode" width="360" />
-</p>
-
 ---
 
 Features
