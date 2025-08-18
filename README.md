@@ -1,10 +1,11 @@
 # Front-End
 
-#Signup UI (React Native + Expo)
+Signup UI (React Native + Expo)
 ---
 Mobile-first Sign Up screen built with React Native (Expo).
 Includes a country-code phone picker with E.164 normalization, react-hook-form validation that shows errors only after blur/submit, and automatic Light/Dark theming via useColorScheme().
 Features
+
 
 - 📱 iOS / Android / Web via Expo
 - 🌐 Country picker phone input (react-native-international-phone-number)
