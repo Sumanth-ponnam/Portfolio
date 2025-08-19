@@ -15,5 +15,9 @@
   "dependencies": {
     "expo": "^53.0.20",
     "react-native-web": "^0.21.0"
+  },
+  "devDependencies": {
+    "typescript": "~5.8.3",
+    "@types/react": "~19.0.10"
   }
 }
